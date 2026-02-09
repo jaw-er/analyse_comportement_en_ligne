@@ -1,33 +1,68 @@
-# 🛡️ Analyse du comportement en ligne
+# 🛡️ Analyse Comportement En Ligne
 
-Application de sensibilisation à la cybersécurité permettant
-d’évaluer les pratiques numériques des utilisateurs à travers
-un questionnaire interactif.
+Application de sensibilisation à la cybersécurité permettant d’évaluer le comportement numérique des utilisateurs à travers un questionnaire interactif.  
+L’outil attribue un score global et fournit des recommandations personnalisées afin d’encourager l’adoption de bonnes pratiques en matière de sécurité informatique.
+
+---
+
+## 🎯 Objectifs
+
+Cette application a été conçue pour :
+
+- Identifier les comportements à risque sur Internet  
+- Sensibiliser les utilisateurs aux menaces courantes  
+- Encourager les bonnes pratiques de cybersécurité  
+- Fournir des recommandations adaptées aux faiblesses détectées  
+
+Elle peut être utilisée dans un contexte :
+
+✅ pédagogique  
+✅ professionnel  
+✅ campagnes de sensibilisation  
+✅ auto-évaluation  
 
 ---
 
 ## 📥 Téléchargement
 
-👉 Télécharger la dernière version :
+👉 Télécharger la dernière version depuis la page **Releases** :
 
-https://github.com/jaw-er/nom-du-repo/releases
+https://github.com/jaw-er/analyse_comportement_en_ligne/releases
 
 ---
 
 ## ⚙️ Exécution
 
-1. Télécharger l'application
-2. Double-cliquer sur `Analyse-Comportement.exe`
-3. Suivre les instructions à l’écran
+1. Télécharger `analyse_comportement_en_ligne.exe`
+2. Double-cliquer sur l’application
+3. Suivre les instructions affichées à l’écran
 
-Aucune installation requise.
+✅ Aucune installation requise.
 
 ---
 
-## 🎯 Objectif
+## 🖥️ Compatibilité
 
-Cet outil vise à :
+- Windows 10  
+- Windows 11  
 
-- Identifier les comportements à risque
-- Sensibiliser aux bonnes pratiques
-- Fournir des recommandations personnalisées
+---
+
+## 🔐 Sécurité
+
+⚠️ Certains antivirus peuvent afficher un avertissement lors du premier lancement.  
+Cela peut arriver avec des applications non signées numériquement.
+
+L’application ne collecte **aucune donnée personnelle** et ne transmet aucune information.
+
+---
+
+## 👨‍💻 Auteur
+
+**Jawad Errougui**
+
+---
+
+## 📄 Licence
+
+Ce projet est destiné à un usage pédagogique et de sensibilisation à la cybersécurité.
