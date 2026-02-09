@@ -66,3 +66,7 @@ L’application ne collecte **aucune donnée personnelle** et ne transmet aucune
 ## 📄 Licence
 
 Ce projet est destiné à un usage pédagogique et de sensibilisation à la cybersécurité.
+
+⚠️ Source code is intentionally not provided.
+This project is distributed as a compiled executable only.
+
